@@ -484,12 +484,12 @@ const Home = (props: HomeProps) => {
                 <WalletContainer>
                     <Logo><a href="http://localhost:3000/" target="_blank" rel="noopener noreferrer"><img alt=""src="CAClogo.png"/></a></Logo>
                     <Menu>
-                        <li><a href="http://localhost:3000/" target="_blank" rel="noopener noreferrer"></a>
+                        <li><a href="http://localhost:3000/" target="_blank" rel="noopener noreferrer">Project</a>
                         </li>
                         <li><a href="http://localhost:3000/" target="_blank"
-                               rel="noopener noreferrer"></a></li>
+                               rel="noopener noreferrer">Road map </a></li>
                         <li><a href="http://localhost:3000/" target="_blank"
-                               rel="noopener noreferrer"></a></li>
+                               rel="noopener noreferrer">FAQ</a></li>
                     </Menu>
                     <Wallet>
                         {wallet ?
